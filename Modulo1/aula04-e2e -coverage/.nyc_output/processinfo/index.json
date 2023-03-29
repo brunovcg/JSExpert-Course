@@ -1,0 +1,1 @@
+{"processes":{"20bea4da-3905-495c-96ea-28630e615b7a":{"parent":"a3978213-c891-4b8d-961d-ac9bda425681","children":[]},"a3978213-c891-4b8d-961d-ac9bda425681":{"parent":null,"children":["20bea4da-3905-495c-96ea-28630e615b7a"]}},"files":{"/Users/brunogouveia/Documents/Code/JSExpert/Modulo1/aula04-e2e -coverage/src/api.js":["20bea4da-3905-495c-96ea-28630e615b7a"]},"externalIds":{}}

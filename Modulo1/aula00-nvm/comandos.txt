@@ -1,0 +1,6 @@
+nvm instal 18-> Install version 18
+nvm install --lts -> install the recommended version
+nvm list -> list all version
+nvm use 18 -> will use version 18
+nvm alias default 18 -> 18 will be the default version
+.nvmrc -> this file allows to use command "nvm use" to activate that version
